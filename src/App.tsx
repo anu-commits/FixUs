@@ -98,7 +98,7 @@ const testimonials: Testimonial[] = [
     name: "Maya",
     age: 23,
     story:
-      "My boyfriend and I were fighting constantly. Coach Khyatish helped us understand each other better and now we're stronger than ever! 💕",
+      "My boyfriend and I were fighting constantly. Coach Nakul helped us understand each other better and now we're stronger than ever! 💕",
     rating: 5,
     relationshipType: "Romantic",
     avatar:
@@ -113,7 +113,7 @@ const testimonials: Testimonial[] = [
     name: "Alex",
     age: 26,
     story:
-      "Haven't talked to my sister in 2 years. Coach Khyatish helped me reach out and we're rebuilding our relationship step by step.",
+      "Haven't talked to my sister in 2 years. Coach Nakul helped me reach out and we're rebuilding our relationship step by step.",
     rating: 5,
     relationshipType: "Family",
     avatar:
@@ -128,7 +128,7 @@ const testimonials: Testimonial[] = [
     name: "Jordan",
     age: 21,
     story:
-      "My best friend group was falling apart. Coach Khyatish gave me the tools to address the drama and save our friendships! 🙌",
+      "My best friend group was falling apart. Coach Nakul gave me the tools to address the drama and save our friendships! 🙌",
     rating: 5,
     relationshipType: "Friendship",
     avatar:
@@ -308,7 +308,7 @@ function App() {
   }
 
   const callNow = () => {
-    window.location.href = "tel:+1-555-FIX-LOVE"
+    window.location.href = "tel:+61-434-818-140"
   }
 
   // Home Screen
@@ -356,7 +356,7 @@ function App() {
                 className="cta-primary flex items-center justify-center space-x-2"
               >
                 <MessageCircle className="w-5 h-5" />
-                <span>Talk to Coach Khyatish Now ✨</span>
+                <span>Talk to Coach Nakul Now ✨</span>
               </button>
 
               <button
@@ -549,7 +549,7 @@ function App() {
             </div>
             <div>
               <h1 className="text-lg font-bold dark:text-white">
-                Coach Khyatish
+                Coach Nakul
               </h1>
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 Here to help ✨
@@ -564,7 +564,7 @@ function App() {
             <div className="text-center py-8">
               <div className="text-4xl mb-4">💬</div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Start the conversation with Coach Khyatish
+                Start the conversation with Coach Nakul
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
                 Tell me what's going on with your relationship. I'm here to
@@ -833,7 +833,7 @@ function App() {
                 onClick={startChat}
                 className="w-full bg-gradient-to-r from-pink-500 to-purple-600 text-white py-4 px-6 rounded-2xl font-semibold text-lg hover:shadow-lg transform hover:scale-105 transition-all duration-200"
               >
-                Get Started with Coach Khyatish ✨
+                Get Started with Coach Nakul ✨
               </button>
 
               <button
@@ -889,7 +889,7 @@ function App() {
               Real People, Real Results ✨
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
-              See how Coach Khyatish has helped thousands rebuild their
+              See how Coach Nakul has helped thousands rebuild their
               relationships
             </p>
           </div>
@@ -948,7 +948,7 @@ function App() {
 
           <div className="text-center py-8">
             <button onClick={startChat} className="cta-primary focus-ring">
-              Start Your Success Story with Coach Khyatish ✨
+              Start Your Success Story with Coach Nakul ✨
             </button>
           </div>
         </div>
